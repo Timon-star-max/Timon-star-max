@@ -10,7 +10,7 @@ As an aspiring Blockchain Developer pursuing an Integrated Master of Technology 
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timon-star-max&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timon-star-max&theme=dark&hide_border=false&include_all_commits=true&count_private=true&token="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")
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Timon-star-max&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timon-star-max&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
